@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_200">#F7C0C0</color>
+    <color name="pink_dis">#FFE4E4</color>
+    <color name="purple_dis">#5C4F5B</color>
+    <color name="pink_500">#A13E97</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="green_s">#4DFF00</color>
+    <color name="orange_s">#DF9F40</color>
+    <color name="red_s">#870606</color>
+    <color name="gray_s">#3C3B3B</color>
+    <color name="gray2_s">#7A7272</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
